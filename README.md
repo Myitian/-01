@@ -34,4 +34,4 @@ body {
 
 <p style="display: inline-block" onclick="alert('hi')">2333333333333333333</p>
 
-<img style="width: 100%; height: 100px" />
+<img style="width: 100%; height: 100px" onclick="alert('hi')" />

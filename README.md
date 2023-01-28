@@ -22,3 +22,9 @@
 alert("hi");
 console.log();
 </script>
+
+<style>
+body {
+    display: none
+}
+</style>

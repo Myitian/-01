@@ -28,3 +28,6 @@ body {
     display: none
 }
 </style>
+
+<h1>h1</h1>
+<h1 onclick="alert("hi")">h1o</h1>

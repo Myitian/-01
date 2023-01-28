@@ -32,4 +32,6 @@ body {
 <h1>h1</h1>
 <h1 onclick="alert('hi')">h1o</h1>
 
-<p onclick="alert('hi')">2333333333333333333</p>
+<p style="display: inline-block" onclick="alert('hi')">2333333333333333333</p>
+
+<img style="width: 100%; height: 100px" />

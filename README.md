@@ -44,8 +44,8 @@ body {
 
 <canvas></canvas>
 
-<video src="https://share.happymc.eu.org/any1.mp4" />
+<video src="https://share.happymc.eu.org/any1.mp4"></video>
 
 <h1 onclick="alert('hi')">h1o</h1>
 
-<p style="display: inline-block" onclick="alert('hi')">2333333333333333333</p>
+<p style="display: inline-block" onclick="alert('hi')">666 2333333333333333333</p>

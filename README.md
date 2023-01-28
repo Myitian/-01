@@ -30,4 +30,6 @@ body {
 </style>
 
 <h1>h1</h1>
-<h1 onclick="alert("hi")">h1o</h1>
+<h1 onclick="alert('hi')">h1o</h1>
+
+<p onclick="alert('hi')">2333333333333333333</p>

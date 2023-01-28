@@ -42,6 +42,10 @@ body {
 
 <img style="width: 100%; height: 100px" onclick="alert('hi')" />
 
+<canvas></canvas>
+
+<video src="https://share.happymc.eu.org/any1.mp4" />
+
 <h1 onclick="alert('hi')">h1o</h1>
 
 <p style="display: inline-block" onclick="alert('hi')">2333333333333333333</p>

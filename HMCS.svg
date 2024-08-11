@@ -6,11 +6,8 @@
   </style>
   <g>
     <text class="a" x="0" y="1em" fill="#6cf">
-      黑幕
+      这是黑幕测试
     </text>
-    <text class="a" x="2em" y="1em" fill="#6cf">
-      测试
-    </text>
-    <rect x="0" y="0" width="2em" height="1.2em" />
+    <rect x="2em" y="0" width="2em" height="1.2em" />
   </g>
 </svg>
